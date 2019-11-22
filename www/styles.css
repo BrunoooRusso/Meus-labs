@@ -1,0 +1,31 @@
+#portfolio {
+    width: 80%;
+    height: 200px;
+    display: block;
+    padding: 50px 0px 0px 300px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+#nome {
+    font-size: 25px;
+}
+
+#image {
+    width: 30%;
+    height: 30px;
+}
+
+.descricao {
+    font-size: 15px;
+    width: 70%;
+    height: 30px;
+    margin-left: 25px;
+
+}
+
+.informacoes {
+    margin-left: 25px;
+}
